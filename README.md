@@ -41,7 +41,3 @@
 </p>
 
 ---
-
-<p align="center">
-  "Stay Hungry, Stay Foolish." – Steve Jobs
-</p>
