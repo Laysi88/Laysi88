@@ -10,4 +10,4 @@
 
 ![Laysi88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laysi88&show_icons=true&theme=radical)
 
-- [LinkedIn]([https://www.linkedin.com/in/TON-LINKEDIN](https://www.linkedin.com/in/lienardarnaud/)) 
+- [LinkedIn](https://www.linkedin.com/in/lienardarnaud/)
