@@ -6,9 +6,45 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+## 🚀 À propos de moi
+
+- 🔥 Développeur Python 
+- 🏢 Actuellement en poste chez [Monada](https://www.monada.tech/)
+- 💬 Toujours partant pour échanger autour du code et des bonnes pratiques
+---
+
+## 🛠️ Compétences
+
+- **Langages** : Python
+- **Frameworks** : Flask, Django, FastAPI
+- **Bases de données** : MySQL, SQLite
+- **DevOps** : Docker, GitHub Actions, CI/CD
+- **Data** : Pandas, SQL, API REST
+
+---
+
 ## 📈 Mes GitHub Stats
 
-![Laysi88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laysi88&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laysi88&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysi88&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/lienardarnaud/)
-- 📍 Actuellement en poste chez [Monada](https://groupe-monada.com/)
+---
+
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lienardarnaud/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.monada.tech/">
+    <img src="https://img.shields.io/badge/Monada-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Monada"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  "Stay Hungry, Stay Foolish." – Steve Jobs
+</p>
