@@ -16,7 +16,7 @@
 ## 🛠️ Compétences
 
 - **Langages** : Python
-- **Frameworks** : Flask, Django, FastAPI
+- **Frameworks** : Flask, Django
 - **Bases de données** : MySQL, SQLite
 - **DevOps** : Docker, GitHub Actions, CI/CD
 - **Data** : Pandas, SQL, API REST
