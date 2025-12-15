@@ -9,7 +9,6 @@
 ## 🚀 À propos de moi
 
 - 🔥 Développeur Python 
-- 🏢 Actuellement en poste chez [Monada](https://groupe-monada.com)
 - 💬 Toujours partant pour échanger autour du code et des bonnes pratiques
 ---
 
